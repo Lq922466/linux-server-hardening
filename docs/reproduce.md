@@ -1,5 +1,7 @@
 # Reproduce the documented lab
 
+**English** · [Español](reproduce.es.md)
+
 This guide reconstructs the steps recorded in the Spanish report. It has not been rerun during portfolio publication. Commands below are for a disposable Ubuntu lab VM, with a Windows OpenSSH client. Replace `SERVER_IP` with your own server address. Create your own keys; no lab key is distributed.
 
 ## 1. Prepare and audit the VM

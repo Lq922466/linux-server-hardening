@@ -2,7 +2,7 @@
 
 Copia textual en español del documento `Linux_Server_Hardening_Estilo_Unificado.docx`. Conserva el contenido y resultados originales; se han sustituido direcciones del laboratorio, nombres de equipo y rutas de usuario. No incluye metadatos de Word, claves SSH ni imágenes originales sin revisar. Las capturas seleccionadas se publican por separado con recortes o redacciones. Los comandos con marcadores requieren valores propios.
 
-[English overview](../README.md) · [Reproduction guide](reproduce.md)
+[Resumen en español](../README.es.md) · [English overview](../README.md) · Guía de reproducción: [Español](reproduce.es.md) / [English](reproduce.md)
 
 ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED
 

@@ -1,5 +1,7 @@
 # Linux Server Hardening
 
+**English** · [Español](README.es.md)
+
 **Status: Completed** · An Ubuntu Server administration and security lab by **INNNX.**
 
 This project documents a completed hardening exercise: auditing a virtual server, creating a sudo administrator, securing SSH with Ed25519 authentication, enabling UFW, and integrating Fail2ban with the firewall. The English summary and reproduction guide are based on the supplied Spanish lab report and its terminal screenshots.
@@ -42,7 +44,7 @@ Automatic failed-login detection was **not directly tested**. Pending package up
 
 ## Documentation
 
-- [Reproduce the lab](docs/reproduce.md) — steps reconstructed from the documented work; use your own machine and credentials.
+- Reproduction guide: [English](docs/reproduce.md) · [Español](docs/reproduce.es.md) — steps reconstructed from the documented work; use your own machine and credentials.
 - [Sanitized original report (Spanish)](docs/original-es-sanitized.md) — text exported from the reviewed Word report.
 - [Reviewed screenshot selection](screenshots/README.md).
 - [Publication and sanitization notes](docs/publication-notes.md).
