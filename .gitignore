@@ -1,0 +1,13 @@
+# Never add private credentials, unreviewed reports or VM exports.
+*.zip
+*.docx
+*.ova
+*.vdi
+*.vmdk
+*.qcow2
+*.pem
+*.key
+*.pub
+id_*
+*ed25519*
+.env*
